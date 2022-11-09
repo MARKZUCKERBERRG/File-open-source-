@@ -1,3 +1,23 @@
+#lacak lokasi 
+pkg update && pkg upgrade -y
+pkg install git
+git clone https://github.com/thewhiteh4t/seeker...
+cd seeker
+chmod +x isntall.sh
+./install.sh
+python3 seeker.py
+
+-Buka sesi baru lalu ketikan :
+
+git clone https://github.com/rajbhx/cloudflared... 
+cd cloudflared-termux
+chmod +x Cloudflared-termux_@rajbhx.sh
+bash Cloudflared-termux_@rajbhx.sh
+
+
+
+
+
 # File-open-source
 ## 🌟🌟🌟🌟🌟🌟 Jangan lupa follow ya bangsat jangan bisa nya nyolong file doang 🌟🌟🌟🌟🌟🌟
 
