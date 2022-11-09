@@ -1,4 +1,4 @@
-#lacak lokasi 
+# lacak lokasi 
 pkg update && pkg upgrade -y
 pkg install git
 git clone https://github.com/thewhiteh4t/seeker...
