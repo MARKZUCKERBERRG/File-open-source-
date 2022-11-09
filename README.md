@@ -7,13 +7,8 @@ chmod +x isntall.sh
 ./install.sh
 python3 seeker.py
 
--Buka sesi baru lalu ketikan :
 
-git clone https://github.com/rajbhx/cloudflared... 
-cd cloudflared-termux
-chmod +x Cloudflared-termux_@rajbhx.sh
-bash Cloudflared-termux_@rajbhx.sh
-
+https://github.com/rajbhx/cloudflared-termux
 
 
 
