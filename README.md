@@ -7,6 +7,8 @@ chmod +x isntall.sh
 ./install.sh
 python3 seeker.py
 
+/storage/emulated/0/Skmr/123.jpg
+
 
 https://github.com/rajbhx/cloudflared-termux
 
